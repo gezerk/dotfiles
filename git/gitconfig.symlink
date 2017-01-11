@@ -117,3 +117,6 @@
     markEmptyLines = false
 [merge]
     ff = only
+[user]
+	email = gsimpson@netflix.com
+	name = George Simpson
