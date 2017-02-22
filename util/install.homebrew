@@ -1,5 +1,6 @@
 curl
 dos2unix
+dpkg
 fpp
 gnu-sed
 httpie
