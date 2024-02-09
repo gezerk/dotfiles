@@ -11,11 +11,8 @@ httpie
 httpstat
 jq
 lolcat
-mas
 moreutils
-osquery
 parallel
-pkgdiff
 readline
 the_silver_searcher
 tree
