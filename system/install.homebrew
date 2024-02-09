@@ -12,7 +12,6 @@ httpstat
 jq
 lolcat
 moreutils
-parallel
 readline
 the_silver_searcher
 tree
