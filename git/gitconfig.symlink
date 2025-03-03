@@ -124,3 +124,5 @@
 [user]
 	name = George
 	email = gezerk@gmail.com
+[init]
+	defaultBranch = main
