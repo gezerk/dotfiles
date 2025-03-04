@@ -17,12 +17,12 @@ gh_browse() {
 }
   
 gh_clone() {
-    git clone --recursive "ssh://git@github.com/$1.git" ~/Projects/github/$1
+    git clone --recursive "ssh://git@github.com/$1.git" ~/projects/github/$1
     gh_cd "$1"
 }
 
 gh_cd() {
-    cd ~/Projects/github/$1
+    cd ~/projects/github/$1
 }
 
 gh() {
@@ -43,4 +43,4 @@ gh() {
     esac
 }
 
-compdef '_files -W ~/Projects/github' gh
+compdef '_files -W ~/projects/github' gh
